@@ -10,14 +10,16 @@ This repository includes a comprehensive web automation project using Java that 
 
   ## Features
 
- ### 1. **CrossBrowser**
+  ### 1. **CrossBrowser**
+  
 
 - **Description:** This class automates the website run into different browser.
 - **Steps:**
   1.Website open with different browser.
+  
 
 
-  ### 2. **Locators**
+ ### 2. **Locators**
 
 - **Description:** This class automates locate different types of locator.
   
