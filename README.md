@@ -17,6 +17,7 @@ This repository includes a comprehensive web automation project using Java that 
 - **Steps:**
   1.Website open with different browser.
   
+  
 
 
   ### 2. **Locators**
@@ -24,10 +25,12 @@ This repository includes a comprehensive web automation project using Java that 
 - **Description:** This class automates locate different types of locator.
   
   
+  
 
   ### 3. **WebCommands**
 
 - **Description:** This class automates different kinds of webcommands like attributvalue,cssvalue.
+  
   
 
 
@@ -36,6 +39,7 @@ This repository includes a comprehensive web automation project using Java that 
 - **Description:** This class automates the selection of options from a dropdown.
 - **Steps:**
   1. Selects options by index,value and visible text.
+     
      
 
 
@@ -48,18 +52,20 @@ This repository includes a comprehensive web automation project using Java that 
 
 
 
+
   ### 6. **Copy and Paste Class**
 
 - **Description:** This class works with copying and pasting using keyboard shortcuts.
 - **Steps:**
   1. Copies and pastes text in a text input field.
      
- 
 
+ 
  ### 7. **Assertion Test Class**
 
 - **Description:** This class demonstrates assertion testing by comparing the expected and actual titles of a webpage.
   
+
 
 
 
